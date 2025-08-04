@@ -23,3 +23,5 @@
 *.mvn/wrappper
 *.mvnw
 *.mvnw.cmd
+
+*.idea

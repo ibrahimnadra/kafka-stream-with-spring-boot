@@ -24,4 +24,9 @@
 *.mvnw
 *.mvnw.cmd
 
-*.idea
+# IntelliJ IDEA
+.idea/
+
+# Maven target directory
+*target/
+

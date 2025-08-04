@@ -19,7 +19,7 @@
 *.mvnw.cmd
 
 # IntelliJ IDEA
-.idea/
+*.idea/
 
 # Maven target directory
 *target/

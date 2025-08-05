@@ -1,4 +1,4 @@
-# kafka-stream-with-spring-boot
+# kafka-streams-with-spring-boot-and-confluent-cloud
 
 This project demonstrates a **microservices architecture using Spring Boot and Apache Kafka (Confluent)**. It showcases **real-time order processing** and **fraud detection using Kafka Streams**, making it an ideal reference for anyone learning **Kafka Stream with Spring Boot**.
 

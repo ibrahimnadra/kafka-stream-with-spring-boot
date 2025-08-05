@@ -11,8 +11,6 @@ public class KafkaProducerConfig {
     public NewTopic topic() {
         return TopicBuilder
                 .name(AppConstants.ORDER_TOPIC_NAME)
-                //                .partitions(3)
-                //                .replicas(1)
                 .build();
     }
 }
